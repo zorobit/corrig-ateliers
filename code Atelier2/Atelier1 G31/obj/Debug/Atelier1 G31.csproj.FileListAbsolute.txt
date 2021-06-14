@@ -1,0 +1,7 @@
+C:\Users\C.Ghyzlane\source\repos\Atelier1 G31\Atelier1 G31\bin\Debug\Atelier1 G31.exe.config
+C:\Users\C.Ghyzlane\source\repos\Atelier1 G31\Atelier1 G31\bin\Debug\Atelier1 G31.exe
+C:\Users\C.Ghyzlane\source\repos\Atelier1 G31\Atelier1 G31\bin\Debug\Atelier1 G31.pdb
+C:\Users\C.Ghyzlane\source\repos\Atelier1 G31\Atelier1 G31\obj\Debug\Atelier1 G31.csprojAssemblyReference.cache
+C:\Users\C.Ghyzlane\source\repos\Atelier1 G31\Atelier1 G31\obj\Debug\Atelier1 G31.csproj.CoreCompileInputs.cache
+C:\Users\C.Ghyzlane\source\repos\Atelier1 G31\Atelier1 G31\obj\Debug\Atelier1 G31.exe
+C:\Users\C.Ghyzlane\source\repos\Atelier1 G31\Atelier1 G31\obj\Debug\Atelier1 G31.pdb
